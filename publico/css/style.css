@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:PowderBlue ;
+  
+}
+
+.container-form{
+    margin:3000 px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 50px;
+ 
+}
+
